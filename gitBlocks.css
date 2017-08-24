@@ -1,0 +1,133 @@
+body{
+	font-family:"Lucida Console",Monaco,monospace;
+	height:400px;
+	width:1000px;
+	background-color:#dddfd4;
+}
+
+#tittiebar{
+	background-color:#3fb0ac;
+	height:60px;
+	width:850px;
+	margin:20px;
+}
+
+#footer{
+	background-color:#3fb0ac;
+	height:60px;
+	width:850px;
+	margin:20px;
+}
+
+#footer p{
+	padding-top:20px;
+	padding-left:200px;
+	font-size:12px;
+}
+
+#tittiebar h2{
+	display:inline-block;
+	vertical-align:middle;
+	margin-top:-30px;
+}
+
+#tittiebar img{
+	display:inline-block;
+	height:60px;
+	width:60px;
+}
+
+#tittiebar ul li{
+	display:inline-block;
+	font-size:12px;
+	margin:5px;
+}
+
+#tittiebar ul{
+	display:inline-block;
+	vertical-align:middle;
+	margin-top:-30px;
+}
+
+#tittiebar a{
+	color:white;
+}
+
+#yellowbody{
+	background-color:#fae596;
+	width:830px;
+	margin:20px;
+	padding:10px;
+}
+
+#leftcolumn{
+	display:inline-block;
+	width:200px;
+	background-color:#173f43;
+	color:white;
+	font-size:12px;
+	padding:10px;
+	vertical-align:top;
+	height:473px;
+}
+
+#threerows{
+	display:inline-block;
+	width:550px;
+	margin:20px;
+}
+
+.subtitle{
+	font-size:16px;
+	margin-top:10px;
+}
+
+.gitterms{
+	color:turquoise;
+}
+
+#firstrow{
+	color:white;
+	font-size:12px;
+	display:inline-block;
+}
+
+#firstrow p{
+	height:140px;
+	width:140px;
+	display:inline-block;
+	padding:9px;
+	margin:9px;	
+	background-color:#173f43;
+	vertical-align:top;
+}
+
+#secondrow{
+	color:white;
+	font-size:12px;
+	display:inline-block;
+}
+
+#secondrow p{
+	height:120px;
+	width:232px;
+	display:inline-block;
+	padding:9px;
+	margin:9px;
+	background-color:#173f43;
+}
+
+#thirdrow{
+	color:white;
+	font-size:12px;
+	display:inline-block;
+}
+
+#thirdrow p{
+	height:120px;
+	width:505px;
+	display:inline-block;
+	padding:9px;
+	margin:9px;
+	background-color:#173f43;
+}
